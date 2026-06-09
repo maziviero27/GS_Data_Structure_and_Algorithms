@@ -62,7 +62,7 @@ Caso nenhuma condição crítica seja encontrada, a missão é considerada está
 - Manipulação de strings
 - Validação de entradas
 
-## Autor
+## Autores
 
 Arthur Maziviero Faria, 573928;
 Tommaso C. Nagliatti,  572147.
